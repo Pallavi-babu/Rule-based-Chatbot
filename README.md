@@ -33,6 +33,7 @@ NOTE- How to run this
 5. Type 'x' to exit the bot.
 
 ## Snapshot:
+![Picture1](https://user-images.githubusercontent.com/83585067/137501270-adb09a2f-a076-4067-92ec-f1b0059ee270.png)
 
 
 
